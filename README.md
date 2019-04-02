@@ -16,6 +16,7 @@ Prerequisites
 
 2) A Slack Channel needs to exist in order to post to it
 
+
 Usage
 
 To use any of the slack bots you should run any of the files with arguements in the following order:
